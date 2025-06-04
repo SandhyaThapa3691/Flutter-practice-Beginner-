@@ -1,7 +1,8 @@
+import 'package:day03/practice.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(Day03());
+  runApp(Practiuce());
 }
 
 class Day03 extends StatelessWidget {
